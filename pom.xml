@@ -12,7 +12,7 @@
 	<artifactId>helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-boot-helloworld</name>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 	<description>Spring Boot Hello World</description>
 
 	<properties>
